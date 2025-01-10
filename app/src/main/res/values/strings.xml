@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CallHistory</string>
+
+    <string-array name="country_codes">
+        <item>+91</item>
+        <!--        <item>+1</item>-->
+        <!--        <item>+44</item>-->
+        <!--        <item>+61</item>-->
+        <!-- Add more country codes as needed -->
+    </string-array>
+
+    <string-array name="days">
+        <item>Yesterday\'s</item>
+        <!--        <item>+1</item>-->
+        <!--        <item>+44</item>-->
+        <!--        <item>+61</item>-->
+        <!-- Add more country codes as needed -->
+    </string-array>
+</resources>
