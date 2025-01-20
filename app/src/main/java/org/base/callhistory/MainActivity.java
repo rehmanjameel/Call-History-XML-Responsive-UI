@@ -25,16 +25,16 @@ public class MainActivity extends AppCompatActivity {
             onBackPressed();
         });
 
-        binding.basicCheckOut.setOnClickListener(v -> {
-
-            Intent intent = new Intent(this, AnyNumberActivity.class);
-            startActivity(intent);
-        });
-
-        binding.standardBT.setOnClickListener(v -> {
-            Intent intent = new Intent(this, AnyNumberActivity.class);
-            startActivity(intent);
-        });
+//        binding.basicCheckOut.setOnClickListener(v -> {
+//
+//            Intent intent = new Intent(this, AnyNumberActivity.class);
+//            startActivity(intent);
+//        });
+//
+//        binding.standardBT.setOnClickListener(v -> {
+//            Intent intent = new Intent(this, AnyNumberActivity.class);
+//            startActivity(intent);
+//        });
 
         binding.premiumBT.setOnClickListener(v -> {
             Intent intent = new Intent(this, AnyNumberActivity.class);
